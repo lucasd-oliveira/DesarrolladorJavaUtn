@@ -1,0 +1,16 @@
+package Trabajo1;
+
+public class Main {
+
+	public static void main(String[] args) {
+		
+		
+		int numeroFin = 14;
+		
+		for (int numeroInicio = 5; numeroInicio <= numeroFin; numeroInicio++) {
+			
+			System.out.println("Impresion Nro: " + numeroInicio);
+		}
+	}
+
+}
